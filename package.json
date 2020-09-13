@@ -1,0 +1,23 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castellanos/personal-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castellanos/personal-website/issues"
+  },
+  "homepage": "https://github.com/castellanos/personal-website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
